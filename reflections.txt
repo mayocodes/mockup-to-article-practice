@@ -1,0 +1,39 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+1. What new skills have you learned?
+
+Through this mockup project, I learned how to use several new tags. They include: the horizontal line, the strikethrough, superscript, subscript, cite and box-shadow, as well as the quote and block quote tag. I also learned how to add the inline style attribute to change something to the specific element I wish to change when there is no external CSS file. I know that I shouldn’t use the inline style attribute often as it can get confusing, but I found it appropriate for this small project. 
+
+I used the style attribute on the horizontal line to give it a box-shadow since the pdf we were given looks like there’s a slight shadow. I couldn’t get it to look exactly the same so I did what I thought looked good. 
+
+I used the cite tag instead of the em tag for the author’s name.
+
+I also used the q tag for the single line quote near the end of the mockup to indicate it’s a quote, but it literally added quotes when I was hoping it would also italicize it like how the pdf looked. Therefore, I went ahead and added the em tag as well to get that look. I also thought that it would be good to emphasize the quote for the visually impaired users who uses screen readers.
+
+I currently use the Atom text editor and when a code is incorrect, the colors of the text changes and learning that it alerts me that there is an error. I am able to take some time to check my code and find any issues (i.e., missing closing tag, misspelled tag name, etc.).
+
+2. What has been easy?
+
+After figuring out how a tag works, it is easy to apply it. Overall, understanding what tags do can be easy; figuring out where or how to use it is the harder part.
+
+3. What has been difficult?
+
+Research can be difficult when there are a lot of different answers online from different people (i.e., our forum/slack, stack overflow, etc.). I also find figuring out how a tag works, where to apply it, when to use it can be difficult as well. For example, lesson 3.11 was more challenging because it took me a bit to figure out how to use the figure and the figcaption tag. I had trouble figuring out what should be inside the figure tag, where the figcaption tag should be within the figure tag, as well as what should be inside the figcaption tag. 
+
+4. How have you used the problem solving strategies from the first project to overcome challenges so far? 
+
+The main focus is to be patient and research. It can get frustrating when I don’t understanding something so my go to is MDN, then slack and then our forum. Everyone is very active and helpful so finding help has not been hard. Most of the questions that I have has already been asked and answered! 
+
+Reviewing the challenge, videos, and notes several times has helped. I start to notice things I didn’t when I first looked at something. 
+
+
+
+
+
+
